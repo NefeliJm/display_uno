@@ -1,0 +1,17 @@
+
+/* llamamos al elemento div */
+div{
+height: 100px; /* LColocamos la altura de 100 para todo lo que este dentro de div */
+
+}
+
+.textos_yellow { /* llamamos a la clase textos_yellow */
+  background-color: #ffc107 ; /* ponemos el color de fondo yellow */
+  margin: 13px /* Colocamos un margen de 13px  */
+}
+
+.textos { /* llamamos a la clase textos */
+  background-color: rgba(0,0,0,0.80); /* ponemos el color de fondo black */
+  color: white; /* le ponemos de color white a la letra */
+  margin: 13px /* colocamos un margen de 13px */
+}
